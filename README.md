@@ -11,3 +11,9 @@ Planning
 ## Credits
 - Kevin Hainline
 - Austin Stover
+- Ramesh Agarwal
+- Joseph Katz
+- Allen Plotkin
+- Ptera Software
+- GitIgnore
+- Shields.io
